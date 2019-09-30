@@ -1262,7 +1262,7 @@ isc:BaseEdiacaranSP
 isc:BaseEdiacaran-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-31.3314 138.6334) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-31.3314 138.6334) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Ediacaran"@en ;
 .
 
@@ -1336,7 +1336,7 @@ isc:BasePhanerozoicSP
 isc:BasePhanerozoic-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.0762 -55.8310) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.0762 -55.8310) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Phanerozoic"@en ;
 .
 
@@ -1534,7 +1534,7 @@ isc:BaseMiaolingianTime
 isc:BaseMiaolingianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Trilobite, potentially FAD of Oryctocephalus indicus"@en ;
-  rdfs:comment "candidate sections are Wuliu-Zengjiayan (east Guizhou, China) ; and litSP Mountain (Nevada, USA) ;"@en ;
+  rdfs:comment "candidate sections are Wuliu-Zengjiayan (east Guizhou, China) ; and litSP Mountain (Nevada, USA) "@en ;
   rdfs:label "Stratotype Point Base of Wuliuan"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -1597,7 +1597,7 @@ isc:BaseDrumianSP
 isc:BaseDrumian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(39.5117 -112.9915) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(39.5117 -112.9915) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Guzhangian"@en ;
 .
 
@@ -1657,7 +1657,7 @@ isc:BaseGuzhangianSP
 isc:BaseGuzhangian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.7200 109.9647) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.7200 109.9647) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Guzhangian "@en ;
 .
 
@@ -1733,7 +1733,7 @@ isc:BaseFurongianSP
 isc:BaseFurongian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.3895 109.5257) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.3895 109.5257) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Furongian"@en ;
 .
 
@@ -1794,7 +1794,7 @@ isc:BaseJiangshanianSP
 isc:BaseJiangshanianLocation
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.815967 118.614933) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.815967 118.614933) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Jiangshanian"@en ;
 .
 
@@ -1840,7 +1840,7 @@ isc:BaseCambrianStage10Time
 isc:BaseCambrianStage10SP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Trilobite FAD of Lotagnostus americanus. An internal substage division might be FAD of Codylodus adesei conodont"@en ;
-  rdfs:comment "candidate section is Duibian (Zhejiang province, China) ;"@en ;
+  rdfs:comment "candidate section is Duibian (Zhejiang province, China) "@en ;
   rdfs:label "Stratotype Point Base of Cambrian Stage 10"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -1914,7 +1914,7 @@ isc:BaseOrdovicianSP
 isc:BaseOrdovician-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.6829 -57.9653) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.6829 -57.9653) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Ordovician"@en ;
 .
 
@@ -1988,7 +1988,7 @@ isc:BaseFloianSP
 isc:BaseFloian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(58.3589 12.5024) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(58.3589 12.5024) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Floian"@en ;
 .
 
@@ -2063,7 +2063,7 @@ isc:BaseMiddleOrdovicianSP
 isc:BaseMiddleOrdovician-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(30.8605 110.3740) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(30.8605 110.3740) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Middle Ordovician"@en ;
 .
 
@@ -2135,7 +2135,7 @@ isc:BaseDarriwilianSP
 isc:BaseDarriwilian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.8539 118.4897) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(28.8539 118.4897) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Darriwilian"@en ;
 .
 
@@ -2208,7 +2208,7 @@ isc:BaseUpperOrdovicianSP
 isc:BaseUpperOrdovician-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(55.7137 13.3255) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(55.7137 13.3255) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Upper Ordovician"@en ;
 .
 
@@ -2272,7 +2272,7 @@ isc:BaseKatianSP
   gts:correlationEvent "Graptolite FAD Diplacanthograptus caudatus"@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
   gts:status "Ratified 2006"@en ;
-  rdfs:comment "Black Knob Ridge Section, Atoka, Oklahoma (USA) ;"@en ;
+  rdfs:comment "Black Knob Ridge Section, Atoka, Oklahoma (USA) "@en ;
   rdfs:label "Stratotype Point Base of Katian"@en ;
   rdfs:seeAlso <http://www.episodes.org/backissues/304/304.htm> ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/Katian.pdf> ;
@@ -2281,7 +2281,7 @@ isc:BaseKatianSP
 isc:BaseKatian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(34.4305 -96.0746) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(34.4305 -96.0746) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Katian"@en ;
 .
 
@@ -2358,7 +2358,7 @@ isc:BaseHirnantianSP
 isc:BaseHirnantian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(30.9841 111.4197) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(30.9841 111.4197) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Hirnantian"@en ;
 .
 
@@ -2414,7 +2414,7 @@ isc:BaseSilurianSP
   rdf:type gts:StratigraphicPoint ;
   samfl:shape isc:BaseSilurian-location ;
   dc:source "Episodes 8/2, p. 101 103, 1985"@en ;
-  dc:source "Silurian Times No. 14 (2006) ;"@en ;
+  dc:source "Silurian Times No. 14 (2006) "@en ;
   gts:boundaryLevel "1.6m above theBase of the Birkhill Shale Formation"@en ;
   gts:correlationEvent "Graptolite FAD Akidograptus ascensus"@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
@@ -2427,7 +2427,7 @@ isc:BaseSilurianSP
 isc:BaseSilurian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(55.4400 -3.2700) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(55.4400 -3.2700) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Silurian"@en ;
 .
 
@@ -2500,7 +2500,7 @@ isc:BaseAeronianSP
 isc:BaseAeronian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.0300 -3.7000) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.0300 -3.7000) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Aeronian"@en ;
 .
 
@@ -2573,7 +2573,7 @@ isc:BaseTelychianSP
 isc:BaseTelychianLocation
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.9700 -3.7900) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.9700 -3.7900) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Telychian"@en ;
 .
 
@@ -2647,7 +2647,7 @@ isc:BaseWenlockSP
 isc:BaseWenlock-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.5811 -2.6389) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.5811 -2.6389) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Wenlock"@en ;
 .
 
@@ -2721,7 +2721,7 @@ isc:BaseHomerianSP
 isc:BaseHomerian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.6156 -2.5647) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.6156 -2.5647) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Homerian"@en ;
 .
 
@@ -2780,7 +2780,7 @@ isc:BaseLudlowUncertainty
 isc:BaseLudlowSP
   rdf:type gts:StratigraphicPoint ;
   samfl:shape isc:BaseLudlow-location ;
-  dc:source "Episodes 5/3, p. 21-23, 1982; "@en ;
+  dc:source "Episodes 5/3, p. 21-23, 1982"@en ;
   dc:source "Geol. Series, Nat. Mus. Wales, 9, p. 73  90, 1989"@en ;
   dc:source "Lethaia 14"@en ;
   gts:boundaryLevel "coincident with the Base of the Lower Elton Formation"@en ;
@@ -2795,7 +2795,7 @@ isc:BaseLudlowSP
 isc:BaseLudlow-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.3592 -2.7772) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.3592 -2.7772) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Ludlow"@en ;
 .
 
@@ -2869,7 +2869,7 @@ isc:BaseLudfordianSP
 isc:BaseLudfordian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.3592 -2.7772) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.3592 -2.7772) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Ludfordian"@en ;
 .
 
@@ -2941,7 +2941,7 @@ isc:BasePridoliSP
 isc:BasePridoli-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.0277 14.3249) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.0277 14.3249) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Pridoli"@en ;
 .
 
@@ -3013,7 +3013,7 @@ isc:BaseDevonianSP
 isc:BaseDevonian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.8550 13.7920) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.8550 13.7920) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Devonian"@en ;
 .
 
@@ -3084,7 +3084,7 @@ isc:BasePragianSP
 isc:BasePragian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.0147 14.3726) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.0147 14.3726) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Pragian"@en ;
 .
 
@@ -3156,7 +3156,7 @@ isc:BaseEmsianSP
 isc:BaseEmsian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(39.2000 67.3056) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(39.2000 67.3056) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Emsian"@en ;
 .
 
@@ -3228,7 +3228,7 @@ isc:BaseMiddleDevonianSP
 isc:BaseMiddleDevonian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.1496 6.4716) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.1496 6.4716) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Middle Devonian"@en ;
 .
 
@@ -3300,7 +3300,7 @@ isc:BaseGivetianSP
 isc:BaseGivetian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.2374 -4.3541) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.2374 -4.3541) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Givetian"@en ;
 .
 
@@ -3372,7 +3372,7 @@ isc:BaseUpperDevonianSP
 isc:BaseUpperDevonian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5032 3.0868) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5032 3.0868) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Upper Devonian"@en ;
 .
 
@@ -3444,7 +3444,7 @@ isc:BaseFamennianSP
 isc:BaseFamennian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.4613 3.0403) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.4613 3.0403) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Famennian"@en ;
 .
 
@@ -3507,8 +3507,8 @@ isc:BaseCarboniferousSP
   samfl:shape isc:BaseCarboniferous-location ;
   dc:source "Episodes 14/4, p. 331 336, 1991 "@en ;
   dc:source "Newsletters on Stratigraphy, 43/2, p. 195 205, 2009 "@en ;
-  gts:boundaryLevel "Base of Bed 89 in Trench E’ at La Serre, (but FAD now known to be at Base of Bed 85) ;"@en ;
-  gts:correlationEvent "Conodont FAD Siphonodella sulcata IMPRECISE (Stratotype Point discovered in 2006 to have biostratigraphic problems, and can not be correlated with precision.) ;"@en ;
+  gts:boundaryLevel "Base of Bed 89 in Trench E’ at La Serre, (but FAD now known to be at Base of Bed 85) "@en ;
+  gts:correlationEvent "Conodont FAD Siphonodella sulcata IMPRECISE (Stratotype Point discovered in 2006 to have biostratigraphic problems, and can not be correlated with precision.) "@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
   gts:status "Ratified 1990"@en ;
   rdfs:comment "La Serre, France"@en ;
@@ -3519,7 +3519,7 @@ isc:BaseCarboniferousSP
 isc:BaseCarboniferous-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5555 3.3573) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5555 3.3573) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Carboniferous"@en ;
 .
 
@@ -3593,7 +3593,7 @@ isc:BaseMiddleMississippianSP
 isc:BaseMiddleMississippian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(24.4333 109.4500) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(24.4333 109.4500) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Middle Mississippian"@en ;
 .
 
@@ -3663,7 +3663,7 @@ isc:BaseUpperMississippianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Conodont FAD Lochriea ziegleri"@en ;
   gts:status "Anticipated 2009"@en ;
-  rdfs:comment "candidates are Verkhnyaya Kardailovka (Urals) ; or Nashui (China) ;"@en ;
+  rdfs:comment "candidates are Verkhnyaya Kardailovka (Urals) ; or Nashui (China) "@en ;
   rdfs:label "Stratotype Point Base of Upper Mississippian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -3737,7 +3737,7 @@ isc:BasePennsylvanianSP
 isc:BasePennsylvanian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(36.7333 -114.7778) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(36.7333 -114.7778) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Pennsylvanian"@en ;
 .
 
@@ -4014,7 +4014,7 @@ isc:BasePermianSP
 isc:BasePermian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.2458 57.8914 ) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.2458 57.8914 ) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Permian"@en ;
 .
 
@@ -4309,7 +4309,7 @@ isc:BaseGuadalupianSP
 isc:BaseGuadalupian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.8767 -104.8768) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.8767 -104.8768) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Guadalupian"@en ;
 .
 
@@ -4378,7 +4378,7 @@ isc:BaseWordianSP
 isc:BaseWordian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.8658 -104.8328) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.8658 -104.8328) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Wordian"@en ;
 .
 
@@ -4447,7 +4447,7 @@ isc:BaseCapitanianSP
 isc:BaseCapitanian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.9091 -104.7892 ) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.9091 -104.7892 ) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Capitanian"@en ;
 .
 
@@ -4535,7 +4535,7 @@ isc:BaseLopingianSP
 isc:BaseLopingian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.6953 109.3211) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(23.6953 109.3211) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Lopingian"@en ;
 .
 
@@ -4616,7 +4616,7 @@ isc:BaseChanghsingianSP
 isc:BaseChanghsingian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.0819 119.7064) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.0819 119.7064) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Changhsingian"@en ;
 .
 
@@ -4710,7 +4710,7 @@ isc:BaseMesozoicSP
 isc:BaseMesozoic-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.0798 119.7058) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.0798 119.7058) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Mesozoic"@en ;
 .
 
@@ -4774,7 +4774,7 @@ isc:BaseOlenekianSP
   rdf:type gts:StratigraphicPoint ;
   samfl:shape isc:BaseOlenekianLocation ;
   dc:source "Albertiana 36, 2007"@en ;
-  gts:boundaryLevel "Base of Bed 13A-2, about 4.8m up in Mikin Formation., Section M04 (~4000 m elevation) ;"@en ;
+  gts:boundaryLevel "Base of Bed 13A-2, about 4.8m up in Mikin Formation., Section M04 (~4000 m elevation) "@en ;
   gts:correlationEvent "Conodont FAD NeoathodusSP waageni, just above Base of Rohillites rohilla ammonite zone, and below lowest occurrence of Flemingites and Euflemingites ammonite genera. Within a prominent positive Carbon-13 peak, and just above widely recognizable sequence boundary."@en ;
   gts:status "Anticipated 2009"@en ;
   rdfs:comment "Candidate Stratotype Point Mud (Muth) ; village, itiSP valley, northwest India"@en ;
@@ -4784,7 +4784,7 @@ isc:BaseOlenekianSP
 isc:BaseOlenekian-Location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.9654 78.0246) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(31.9654 78.0246) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Olenekian"@en ;
 .
 
@@ -4851,14 +4851,14 @@ isc:BaseMiddleTriassicSP
   gts:boundaryLevel "In Section B, the Stratotype Point level will be either the FAD of conodont Chiosella timorensis at the Base of Bed GR7 at ca. 7 m; OR the Base of magnetozone MT1n at the 5.7 m level."@en ;
   gts:correlationEvent "Conodont FAD Chiosella timorensis or Magnetic -- Base of magnetic polarity MT1n"@en ;
   gts:status "Anticipated 2009"@en ;
-  rdfs:comment "Candidate section at Desli Caira (Dobrogea, Romania) ;; significant sections in Guizhou Province (China) ; and South Primorye (Russia) ;"@en ;
+  rdfs:comment "Candidate section at Desli Caira (Dobrogea, Romania) ;; significant sections in Guizhou Province (China) ; and South Primorye (Russia) "@en ;
   rdfs:label "Stratotype Point Base of Middle Triassic"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
 isc:BaseMiddleTriassic-Location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(45.0742 28.8022) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(45.0742 28.8022) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Middle Triassic"@en ;
 .
 
@@ -4928,7 +4928,7 @@ isc:BaseLadinianSP
 isc:BaseLadinian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(45.8193 10.4710 ) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(45.8193 10.4710 ) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Ladinian"@en ;
 .
 
@@ -5009,7 +5009,7 @@ isc:BaseUpperTriassicSP
 isc:BaseUpperTriassic-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(46.5269 11.9303) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(46.5269 11.9303) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Upper Triassic"@en ;
 .
 
@@ -5071,7 +5071,7 @@ isc:BaseNorianUncertainty
 isc:BaseNorianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Base of Stikinoceras kerri ammonoid zone and near FAD of Metapolygnathus echinatus within the M. communisti conodont zones"@en ;
-  rdfs:comment "Candidates are Black Bear Ridge in British Columbia (Canada) ; and Pizzo Mondello, Sicily (Italy) ;"@en ;
+  rdfs:comment "Candidates are Black Bear Ridge in British Columbia (Canada) ; and Pizzo Mondello, Sicily (Italy) "@en ;
   rdfs:label "Stratotype Point Base of Norian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -5203,7 +5203,7 @@ isc:BaseJurassicSP
 isc:BaseJurassic-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.4839 11.5306) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.4839 11.5306) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Jurassic"@en ;
 .
 
@@ -5274,7 +5274,7 @@ isc:BaseSinemurianSP
 isc:BaseSinemurian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.1909 -3.2364) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.1909 -3.2364) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Sinemurian"@en ;
 .
 
@@ -5346,7 +5346,7 @@ isc:BasePliensbachianSP
 isc:BasePliensbachian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.4069 -0.4975) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.4069 -0.4975) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Pliensbachian"@en ;
 .
 
@@ -5405,7 +5405,7 @@ isc:BaseToarcianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Ammonite near FAD of a diversified Eodactylites ammonite fauna; correlates with the NW European Protogrammoceras paltus horizon."@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
-  rdfs:comment "Peniche (Portugal) ;"@en ;
+  rdfs:comment "Peniche (Portugal) "@en ;
   rdfs:label "Stratotype Point Base of Toarcian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -5478,7 +5478,7 @@ isc:BaseMiddleJurassicSP
 isc:BaseMiddleJurassic-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(41.1708 -1.8333) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(41.1708 -1.8333) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Middle Jurassic"@en ;
 .
 
@@ -5549,7 +5549,7 @@ isc:BaseBajocianSP
 isc:BaseBajocian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(40.1992 -8.9042) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(40.1992 -8.9042) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Bajocian"@en ;
 .
 
@@ -5608,7 +5608,7 @@ isc:BaseBathonianSP
   rdf:type gts:StratigraphicPoint ;
   samfl:shape isc:BaseBathonian-location ;
   gts:boundaryLevel "Base of limestone bed RB07 "@en ;
-  gts:correlationEvent "Ammonite FAD Gonolkite convergens (defines Base of Zigzagiceras zigzag Zone) ;"@en ;
+  gts:correlationEvent "Ammonite FAD Gonolkite convergens (defines Base of Zigzagiceras zigzag Zone) "@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
   gts:status "Ratified 2008"@en ;
   rdfs:comment "Ravin du Bes, Bas Auran area, Alpes de Haute Provence, France  "@en ;
@@ -5620,7 +5620,7 @@ isc:BaseBathonianSP
 isc:BaseBathonian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.9606 6.3153) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.9606 6.3153) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Bathonian"@en ;
 .
 
@@ -5678,7 +5678,7 @@ isc:BaseCallovianUncertainty
 isc:BaseCallovianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent """Ammonite FAD of the genus Kepplerites (Kosmoceratidae) ;
- (defines Base of Macrocephalites herveyi Zone in sub-Boreal province of Great Britain to southwest Germany) ;"""@en ;
+ (defines Base of Macrocephalites herveyi Zone in sub-Boreal province of Great Britain to southwest Germany) """@en ;
   rdfs:comment "candidates are Pfeffingen (Swabian Alb, SW Germany) ; and in Russia"@en ;
   rdfs:label "Stratotype Point Base of Callovian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
@@ -5738,8 +5738,8 @@ isc:BaseUpperJurassicUncertainty
 .
 isc:BaseUpperJurassicSP
   rdf:type gts:StratigraphicPoint ;
-  gts:correlationEvent "Ammonite Cardioceras redcliffense Horizon at Base of the Cardioceras scarburgense Subzone (Quenstedtoceras mariae Zone) ;"@en ;
-  rdfs:comment "candidates are Redcliff Point (Dorset, SW England) ; and Savouron (Provence, SE France) ;"@en ;
+  gts:correlationEvent "Ammonite Cardioceras redcliffense Horizon at Base of the Cardioceras scarburgense Subzone (Quenstedtoceras mariae Zone) "@en ;
+  rdfs:comment "candidates are Redcliff Point (Dorset, SW England) ; and Savouron (Provence, SE France) "@en ;
   rdfs:label "Stratotype Point Base of Upper Jurassic"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -5814,14 +5814,14 @@ isc:BaseKimmeridgianSP
   samfl:shape isc:BaseKimmeridgianLocation ;
   gts:correlationEvent "Ammonite near Base of Pictonia baylei ammonite zone of Boreal realm"@en ;
   gts:status "Anticipated 2009"@en ;
-  rdfs:comment "candidate is Flodigarry (Isle of Skye, NW Scotland) ;"@en ;
+  rdfs:comment "candidate is Flodigarry (Isle of Skye, NW Scotland) "@en ;
   rdfs:label "Stratotype Point Base of Kimmeridgian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
 isc:BaseKimmeridgianLocation
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(57.6 -6.2) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(57.6 -6.2) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Kimmeridgian"@en ;
 .
 
@@ -5879,7 +5879,7 @@ isc:BaseTithonianUncertainty
 isc:BaseTithonianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Near Base of Hybonoticeras hybonotum ammonite zone and lowest occurrence of Gravesia genus, and the Base of magnetic polarity Chron M22An"@en ;
-  rdfs:comment "candidates are Mt. Crussol or Canjuers (SE France) ; and Fornazzo (Sicily, S. Italy) ;"@en ;
+  rdfs:comment "candidates are Mt. Crussol or Canjuers (SE France) ; and Fornazzo (Sicily, S. Italy) "@en ;
   rdfs:label "Stratotype Point Base of Tithonian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -5996,7 +5996,7 @@ isc:BaseValanginianUncertainty
 isc:BaseValanginianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Calpionellid FAD Calpionellites darderi (Base of Calpionellid Zone E) ;; followed by ammonite FAD “Thurmanniceras” pertransiens"@en ;
-  rdfs:comment "candidates are near Montbrunles- Bains (Drôme province, SE France) ; and Cañada Luenga (Betic Cordillera, S. ainSP) ;"@en ;
+  rdfs:comment "candidates are near Montbrunles- Bains (Drôme province, SE France) ; and Cañada Luenga (Betic Cordillera, S. ainSP) "@en ;
   rdfs:label "Stratotype Point Base of Albian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -6058,7 +6058,7 @@ isc:BaseHauterivianUncertainty
 .
 isc:BaseHauterivianSP
   rdf:type gts:StratigraphicPoint ;
-  gts:correlationEvent "Ammonite FAD of genus Acanthodiscus (eeciallySP A. radiatus) ;"@en ;
+  gts:correlationEvent "Ammonite FAD of genus Acanthodiscus (eeciallySP A. radiatus) "@en ;
   rdfs:comment "candidate is La Charce village, Drôme Province, southeast France"@en ;
   rdfs:label "Stratotype Point Base of Barremian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
@@ -6302,7 +6302,7 @@ isc:BaseUpperCretaceousSP
 isc:BaseUpperCretaceous-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(44.3925 5.5119) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(44.3925 5.5119) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Upper Cretaceous"@en ;
 .
 
@@ -6377,7 +6377,7 @@ isc:BaseTuronianSP
 isc:BaseTuronian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(38.2822 -104.7275) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(38.2822 -104.7275) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Turonian"@en ;
 .
 
@@ -6443,8 +6443,8 @@ isc:BaseConiacianUncertainty
 .
 isc:BaseConiacianSP
   rdf:type gts:StratigraphicPoint ;
-  gts:correlationEvent "Inoceramid bivalve FAD Cremnoceramus rotundatus (sensu Tröger non Fiege) ;"@en ;
-  rdfs:comment "candidates are in Poland (Slupia Nadbrzena) ;, USA (Pueblo, Colorado) ;, and Germany (Salzgitter-Salder Quarry) ;"@en ;
+  gts:correlationEvent "Inoceramid bivalve FAD Cremnoceramus rotundatus (sensu Tröger non Fiege) "@en ;
+  rdfs:comment "candidates are in Poland (Slupia Nadbrzena) ;, USA (Pueblo, Colorado) ;, and Germany (Salzgitter-Salder Quarry) "@en ;
   rdfs:label "Stratotype Point Base of Coniaician"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -6516,7 +6516,7 @@ isc:BaseSantonianSP
 isc:BaseSantonian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(42.8668 2.1968) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(42.8668 2.1968) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Santonian"@en ;
 .
 
@@ -6646,7 +6646,7 @@ isc:BaseMaastrichtianSP
 isc:BaseMaastrichtian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.6795 -1.1133) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.6795 -1.1133) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Maastrichtian"@en ;
 .
 
@@ -6708,7 +6708,7 @@ isc:BaseCenozoicSP
   samfl:shape isc:BaseCenozoic-location ;
   dc:source "Episodes 29/4, p. 263  278, 2006"@en ;
   gts:boundaryLevel "reddish layer at the Base of the 50cm thick, dark boundary clay"@en ;
-  gts:correlationEvent "Iridium geochemical anomaly. Associated with a major extinction horizon (dinosaurs, ammonites, foraminifers, etc.) ;"@en ;
+  gts:correlationEvent "Iridium geochemical anomaly. Associated with a major extinction horizon (dinosaurs, ammonites, foraminifers, etc.) "@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
   gts:status "Ratified 1991"@en ;
   rdfs:comment "Oued Djerfane, west of El Kef, Tunisia"@en ;
@@ -6719,7 +6719,7 @@ isc:BaseCenozoicSP
 isc:BaseCenozoic-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(36.1537 8.6486) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(36.1537 8.6486) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Cenozoic"@en ;
 .
 
@@ -6794,7 +6794,7 @@ isc:BaseSelandianSP
 isc:BaseSelandian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.3006 -2.2594) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.3006 -2.2594) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Selandian"@en ;
 .
 
@@ -6865,7 +6865,7 @@ isc:BaseThanetianSP
 isc:BaseThanetian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.3006 -2.2594) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.3006 -2.2594) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Thanetian"@en ;
 .
 
@@ -6926,7 +6926,7 @@ isc:BaseEoceneSP
   dc:source "Episodes 30/4, p.  271 286,  2007"@en ;
   dc:source "Micropaleontology  49/1, p.41  59, 2003"@en ;
   gts:boundaryLevel "Base of Bed 1 in DBH subsection"@en ;
-  gts:correlationEvent "Carbon Isotope Excursion base, initiation of basal Eocene Thermal maximum (PETM) ;"@en ;
+  gts:correlationEvent "Carbon Isotope Excursion base, initiation of basal Eocene Thermal maximum (PETM) "@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
   gts:status "Ratified 2003"@en ;
   rdfs:comment "Dababiya, near Luxor, Egypt"@en ;
@@ -6937,7 +6937,7 @@ isc:BaseEoceneSP
 isc:BaseEocene-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(25.5000 32.5311) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(25.5000 32.5311) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Eocene"@en ;
 .
 
@@ -7007,7 +7007,7 @@ isc:BaseLutetianSP
 isc:BaseLutetian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.379575  -3.014336) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.379575  -3.014336) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Lutetian"@en ;
 .
 
@@ -7132,7 +7132,7 @@ isc:BasePriabonianUncertainty
 isc:BasePriabonianSP
   rdf:type gts:StratigraphicPoint ;
   gts:boundaryLevel "Tiziano Bed"@en ;
-  gts:correlationEvent "Calcareous nannofossil near FAD Chiasmolithus oamaruensis (Base of Zone NP18) ;"@en ;
+  gts:correlationEvent "Calcareous nannofossil near FAD Chiasmolithus oamaruensis (Base of Zone NP18) "@en ;
   rdfs:comment "Alano section, Piave River; Veneto Prealps, Belluno province, N. Italy"@en ;
   rdfs:label "Stratotype Point Base of Priabonian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
@@ -7200,7 +7200,7 @@ isc:BaseOligoceneSP
 isc:BaseOligocene-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5328 13.6011  ) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5328 13.6011  ) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Oligocene"@en ;
 .
 
@@ -7317,7 +7317,7 @@ isc:BaseNeogeneSP
 isc:BaseNeogene-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(44.6589 8.8364) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(44.6589 8.8364) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Neogene"@en ;
 .
 
@@ -7395,7 +7395,7 @@ isc:BaseLanghianTime
 isc:BaseLanghianSP
   rdf:type gts:StratigraphicPoint ;
   gts:correlationEvent "Near planktonic foraminifer FAD of Praeorbulina glomerosa and top of magnetic polarity chronozone C5Cn.1n"@en ;
-  rdfs:comment "Potentially in astronomically tuned ODP core (Leg 154) ; or in Italy (Moria or La Vedova) ;"@en ;
+  rdfs:comment "Potentially in astronomically tuned ODP core (Leg 154) ; or in Italy (Moria or La Vedova) "@en ;
   rdfs:label "Stratotype Point Base of Langhian"@en ;
   rdfs:seeAlso <http://www.stratigraphy.org/GSSP/index.html> ;
 .
@@ -7450,7 +7450,7 @@ isc:BaseSerravallianSP
 isc:BaseSerravallian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(35.9139 14.3361) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(35.9139 14.3361) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Serravallian"@en ;
 .
 
@@ -7510,7 +7510,7 @@ isc:BaseTortonianSP
 isc:BaseTortonian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5867 13.5694) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(43.5867 13.5694) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Tortonian"@en ;
 .
 
@@ -7560,7 +7560,7 @@ isc:BaseMessinianSP
 isc:BaseMessinian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(33.9369 -6.8125) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(33.9369 -6.8125) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Messinian"@en ;
 .
 
@@ -7615,7 +7615,7 @@ isc:BasePlioceneSP
 isc:BasePliocene-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(37.3917 13.2806) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(37.3917 13.2806) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Pliocene"@en ;
 .
 
@@ -7652,7 +7652,7 @@ isc:BasePiacenzianSP
   rdf:type gts:StratigraphicPoint ;
   samfl:shape isc:BasePiacenz-location ;
   dc:source "Episodes 21/2, p. 88 93, 1998"@en ;
-  gts:boundaryLevel "Base of the beige marl bed of small-scale carbonate cycle 77 (MPRS 347) ; "@en ;
+  gts:boundaryLevel "Base of the beige marl bed of small-scale carbonate cycle 77 (MPRS 347) "@en ;
   gts:correlationEvent "Magnetic  Gauss/Gilbert (C2An/C2Ar) ; magnetic reversal is recorded immediately above the GSSP"@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
   gts:status "Ratified 1997"@en ;
@@ -7664,7 +7664,7 @@ isc:BasePiacenzianSP
 isc:BasePiacenz-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(37.2889 13.4933) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(37.2889 13.4933) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Piacenzian"@en ;
 .
 
@@ -7748,7 +7748,7 @@ isc:BaseQuaternarySP
 isc:BaseQuaternary-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(37.1469 14.2035) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(37.1469 14.2035) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Quaternary"@en ;
 .
 
@@ -7791,7 +7791,7 @@ isc:BaseCalabrianSP
   samfl:shape isc:BaseCalabrian-location ;
   dc:source "Episodes 35/3, p. 388-397, 2012"@en ;
   dc:source "Episodes 8/2, p. 116  120, 1985"@en ;
-  gts:boundaryLevel "Base of the marine claystone overlying the sapropelic marker Bed  e (Mediterranean Precession Related Sapropel, MPRS 176) ;"@en ;
+  gts:boundaryLevel "Base of the marine claystone overlying the sapropelic marker Bed  e (Mediterranean Precession Related Sapropel, MPRS 176) "@en ;
   gts:correlationEvent "Magnetic 15 kyr after end of Olduvai (C2n) ; normal polarity chron"@en ;
   gts:ratifiedGSSP "true"^^xsd:boolean ;
   gts:status "Ratified 1985 as Base of Pleistocene; Ratified 2011 as Base of Calabrian"@en ;
@@ -7804,7 +7804,7 @@ isc:BaseCalabrianSP
 isc:BaseCalabrian-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(39.0385 17.1348) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(39.0385 17.1348) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Calabrian"@en ;
 .
 
@@ -7912,7 +7912,7 @@ isc:BaseHoloceneSP
 isc:BaseHolocene-location
   rdf:type geo:Geometry ;
   rdf:type sf:Point ;
-  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(75.1000 -42.3200) ;"^^geo:wktLiteral ;
+  geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(75.1000 -42.3200) "^^geo:wktLiteral ;
   rdfs:label "Location of Stratotype Point Base of Holocene"@en ;
 .
 
