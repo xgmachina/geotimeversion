@@ -7,8 +7,10 @@ A SPARQL endpoint has been set up for the developed vocabulary at http://virtuos
 
 >########### Use case 1: Find the values of base boundary time and undertainty of Jurassic in the 2012-08 ISC chart #########
 
->prefix dc: <http://purl.org/dc/elements/1.1/> 
->prefix dcterms: <http://purl.org/dc/terms/> 
+>prefix dc: <http://purl.org/dc/elements/1.1/>
+
+>prefix dcterms: <http://purl.org/dc/terms/>
+
 >prefix foaf: <http://xmlns.com/foaf/0.1/> 
 >prefix geo: <http://www.opengis.net/ont/geosparql#> 
 >prefix gts: <http://resource.geosciml.org/ontology/timescale/gts#> 
