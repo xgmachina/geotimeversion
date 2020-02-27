@@ -5,6 +5,7 @@ There are continuous changes in the international geologic time scale, e.g. addi
 
 A SPARQL endpoint has been set up for the developed vocabulary at http://virtuoso.nkn.uidaho.edu:8890/sparql/. To query the vocabulary, a user needs to specify the graph name <http://deeptimekb.org/iscall> . Below is an example: 
 
+```
 ########### Use case 1: Find the values of base boundary time and undertainty of Jurassic in the 2012-08 ISC chart #########
 
 prefix dc: <http://purl.org/dc/elements/1.1/>
@@ -58,6 +59,6 @@ WHERE
    } 
 }
 #####################
-
+```
 
 ![Different versions of the GTS chart](/gtsversion.png)
