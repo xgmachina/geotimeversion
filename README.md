@@ -35,7 +35,7 @@ WHERE
 {
   GRAPH <http://deeptimekb.org/iscallnew> 
    {
-	?tconcept skos:prefLabel "Jurassic"@en ; ##see Note 2 above
+	?tconcept skos:prefLabel "Jurassic"@en ;  
 
                  dc:description  
                      [   
