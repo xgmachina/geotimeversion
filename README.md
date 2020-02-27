@@ -1,11 +1,12 @@
 # Represent and capture concept and attribute versioning in the geological time scale
 A vocabulary that tries to document the different versions of the international geologic time scale. 
 
-There are continuous changes in the international geologic time scale, e.g. adding and removal of concepts, or changes in the attribute of concepts. A semantic model was developed to represent those versioning changes. A case study was done to capture all the changes in the International Chronostratigraphic Chart from 2004 to 2018.
+There are continuous changes in the international geologic time scale, e.g. adding and removal of concepts, or changes in the attribute of concepts. A semantic model was developed to represent those versioning changes. A case study was done to capture all the changes in the International Chronostratigraphic Chart from 2004 to 2018. In the work we have reused the ontologies and vocabularies developed by Dr. Simon Cox and his colleagues. Their vocabularies are archived at a folder on the GeoSciML website http://resource.geosciml.org/vocabulary/timescale/. 
 
 A SPARQL endpoint has been set up for the developed vocabulary at http://virtuoso.nkn.uidaho.edu:8890/sparql/. To query the vocabulary, a user needs to specify the graph name <http://deeptimekb.org/iscall> . Below is an example: 
 
 ########### Use case 1: Find the values of base boundary time and undertainty of Jurassic in the 2012-08 ISC chart #########
+
 prefix dc: <http://purl.org/dc/elements/1.1/> 
 prefix dcterms: <http://purl.org/dc/terms/> 
 prefix foaf: <http://xmlns.com/foaf/0.1/> 
@@ -57,8 +58,6 @@ WHERE
    } 
 }
 #####################
-
-In the work we have reused the ontologies and vocabularies developed by Dr. Simon Cox and his colleagues. Their vocabularies are archived at a folder on the GeoSciML website http://resource.geosciml.org/vocabulary/timescale/. 
 
 
 ![Different versions of the GTS chart](/gtsversion.png)
