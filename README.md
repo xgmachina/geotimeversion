@@ -1,5 +1,5 @@
-# A comprehensive vocabulary for all versions of the international geologic time scale
-A vocabulary that tries to document the different versions of the international geologic time scale. 
+# A comprehensive knowledge graph for all versions of the international chronostratigraphc chart
+A knoweldge graph that tries to document the different versions of the international geologic time scale. 
 
 There are continuous changes in the international geologic time scale, e.g. adding and removal of concepts, or changes in the attribute of concepts. A semantic model was developed to represent those versioning changes. A case study was done to capture all the changes in the International Chronostratigraphic Chart from 2004 to 2018. In the work we have reused the ontologies and vocabularies developed by Dr. Simon Cox and his colleagues. Their vocabularies are archived at a folder on the GeoSciML website http://resource.geosciml.org/vocabulary/timescale/. 
 
